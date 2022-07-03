@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a3e199bc-351a-4909-89e9-2d1c3cd14aa0": {
+      "ProjectGuid": "a3e199bc-351a-4909-89e9-2d1c3cd14aa0",
+      "DisplayName": "LEON_Can4G",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
